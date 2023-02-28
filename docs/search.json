@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Thank you for your interest in this exercise in shameless self promotion. This blog will only be hosted for a limited time."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Papers",
+    "section": "",
+    "text": "Effects of economic and climatic factors on agricultural water use in arid regions\n\n\n\n\n\n\n\nAgriculture\n\n\nIrrigation\n\n\nWater Use\n\n\nRemote Sensing\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2023\n\n\nBrian McGreal\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Effects of economic and climatic factors on agricultural water use in arid regions",
+    "section": "",
+    "text": "Recently accepted for publication in the Journal of Soil and Water Conservation, ‘Effects of economic and climatic factors on agricultural water use in arid regions’ by Brian McGreal and Bonnie Colby is concerned with addressing drivers of agricultural water use in Central Arizona. A 2014 Arizona Department of Water Resources report described agricultural water use as accounting for 68% of water use in the state. As water supplies become more scarce, the question of what motivates irrigators’ water use decisions becomes increasingly relevant.\n\nThroughout the arid American West, agriculture is the dominant consumptive use of water, with farming operations dependent on finite groundwater resources or limited surface flows for necessary irrigation. In Central Arizona, growers' water needs are met through a combination of groundwater, Colorado River water delivered via the Central Arizona Project, and additional surface flows. These supply portfolios are often assembled and managed by irrigation districts, who are then tasked with delivering water to member growers within district boundaries.\n\n\n\nIrrigation Districts in Central Arizona\n\n\nThis study focuses on twelve irrigation districts located in Maricopa and Pinal counties, and making use of climatic, economic, and remote sensed land cover data to model those factors which contribute to farmers' water use decisions. The modeling approach presented is applicable to a wide range of agricultural communities that are dependent on irrigation for agriculture. This study specifically examines water deliveries to and irrigation intensity within Central Arizona irrigation districts.\nA novel aspect of this analysis is the incorporation of remote sensed land cover data from the USDA National Agricultural Statistics Service’s Cropland Data Layer. This data product, published annually at a 30m resolution, includes not only information on crop cover, but all land cover within the contiguous United States, including fresh water, developed area, fallowed lands, forests, and more.\n\n\n\nExample of the Cropland Data Layer, alfalfa (pink) and cotton (red) are prevelant crops (2019)\n\n\nThrough the incorporation of this crop cover data, this study was able to compare fluctuations in prices to year-to-year expansion or contraction of planted acreage in various common crops, a direct driver of irrigation water demand.\n\n\n\nCentral Arizona year-to-year cropping\n\n\nEconometric analysis of integrated panel data finds that climate, the prices of December Cotton Futures, water costs, and fallowed land area have significant impacts on irrigators’ water use decisions. Understanding these decisions is essential for those concerned with the impact of water availability on local economies, ecosystems, and aquifers."
+  }
+]
